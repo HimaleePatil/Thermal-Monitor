@@ -141,7 +141,7 @@ python main.py
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Himalee Patil**
 GitHub: https://github.com/HimaleePatil
 
 ---
