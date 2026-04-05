@@ -77,7 +77,7 @@ CPU Data → psutil → Data Processing → GUI (Tkinter)
 1. Clone the repository:
 
 ```
-git clone https://github.com/HimaleePatil/thermal-monitor.git
+git clone https://github.com/HimaleePatil/Thermal-Monitor.git
 ```
 
 2. Navigate to project directory:
@@ -110,11 +110,7 @@ python main.py
 
 ---
 
-## 📸 Screenshots
 
-*Add your project screenshots here*
-
----
 
 ## 🎯 Use Cases
 
